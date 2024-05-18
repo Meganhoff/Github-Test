@@ -1,4 +1,4 @@
 #Test File
   #need ".py" at the end of each file for python code
   
-print("Git Hub is a bitch")
+print("Git Hub")
